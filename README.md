@@ -1,4 +1,5 @@
 # Supply-Chain-KPIs
+
 ## Quality Risk Model 
 - Devition On time
 - Change Control on time
@@ -21,3 +22,9 @@
 - Zero Critical customer complaints
 
 ## Regulatory Expectation
+- Regulatory Responses on time
+- No Regulatory Actions
+
+## EHS KPIs
+## Procurement
+## 
