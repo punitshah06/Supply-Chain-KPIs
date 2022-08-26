@@ -27,4 +27,19 @@
 
 ## EHS KPIs
 ## Procurement
-## 
+## SAP Codes that I have used so far
+- QA33 - 
+- QM11 - Display list of Quality Notifications
+- QM13 - Display list of Quality tasks
+- QM03 - Display Quality Notification
+
+- MB52
+- COOISPI
+- ZMM_POBOOK
+- MD04
+
+- IH08
+- IW49N
+- IW29 - Display Notifications (Preventive maintenance)
+
+
