@@ -27,6 +27,16 @@
 
 ## EHS KPIs
 ## Procurement
+## Finance KPIs
+- Recoveries by Brand
+- Operational Costs by categories like salary, energy etc.
+- Purchase price variance (Actual vs Std) and drivers.
+- Cost of Poor Quality (Yield variance, Quality variance and Value Engineering).
+- Headcount by department.
+- Site inventory (Raw materials, WIP, Outbound, Semi finished, finished products etc.)
+- Capital Expenditure by major projects.
+- 
+
 ## SAP Codes that I have used so far
 - QA33 - 
 - QM11 - Display list of Quality Notifications
