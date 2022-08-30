@@ -35,19 +35,16 @@
 - Headcount by department.
 - Site inventory (Raw materials, WIP, Outbound, Semi finished, finished products etc.)
 - Capital Expenditure by major projects.
-- 
 
 ## SAP Codes that I have used so far
 - QA33 - 
 - QM11 - Display list of Quality Notifications
 - QM13 - Display list of Quality tasks
 - QM03 - Display Quality Notification
-
 - MB52
 - COOISPI
 - ZMM_POBOOK
 - MD04
-
 - IH08
 - IW49N
 - IW29 - Display Notifications (Preventive maintenance)
